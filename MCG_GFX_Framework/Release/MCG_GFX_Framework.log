@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\calox\OneDrive - Bournemouth University\User Files\repos\GCP\MCG_GFX_Framework_v2\MCG_GFX_Framework\Main.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\calox\OneDrive - Bournemouth University\User Files\repos\GCP\MCG_GFX_Framework_v2\MCG_GFX_Framework\Main.cpp(135,28): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating code
+  1 of 258 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MCG_GFX_Framework.vcxproj -> C:\Users\calox\OneDrive - Bournemouth University\User Files\repos\GCP\MCG_GFX_Framework_v2\Release\MCG_GFX_Framework.exe
